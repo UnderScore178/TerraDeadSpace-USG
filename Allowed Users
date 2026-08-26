@@ -1,4 +1,4 @@
-{
+local Allowed = {
     [8938901030] = true, --Terra
     [895960307] = true, --Rei
     [10953230483] = true, --Ishimura
